@@ -1,0 +1,38 @@
+.aqua{
+    background-color: rgb(199, 221, 221);
+}
+.container{
+    margin-bottom: 100px;
+}
+
+.carousel-item{
+    padding: 20px 100px;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom,black 0%,#ff136f 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+
+}
+.sp{
+    margin-bottom: 50px;
+}
+.card-body{
+    text-align: center;
+
+}
+.card-footer{
+    text-align: center;
+    border: none;
+
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px 10px lightyellow;
+}
+footer p{
+    text-align: center;
+}
